@@ -1,0 +1,21 @@
+DriverNumber,BroadcastName,Abbreviation,DriverId,TeamName,TeamColor,TeamId,FirstName,LastName,FullName,HeadshotUrl,CountryCode,Position,ClassifiedPosition,GridPosition,Q1,Q2,Q3,Time,Status,Points
+3,D RICCIARDO,RIC,ricciardo,Red Bull Racing,1E41FF,red_bull,Daniel,Ricciardo,Daniel Ricciardo,,,1.0,1,6.0,,,,0 days 01:35:36.380000,Finished,25.0
+77,V BOTTAS,BOT,bottas,Mercedes,00D2BE,mercedes,Valtteri,Bottas,Valtteri Bottas,,,2.0,2,3.0,,,,0 days 00:00:08.894000,Finished,18.0
+7,K RAIKKONEN,RAI,raikkonen,Ferrari,DC0000,ferrari,Kimi,Räikkönen,Kimi Räikkönen,,,3.0,3,2.0,,,,0 days 00:00:09.637000,Finished,15.0
+44,L HAMILTON,HAM,hamilton,Mercedes,00D2BE,mercedes,Lewis,Hamilton,Lewis Hamilton,,,4.0,4,4.0,,,,0 days 00:00:16.985000,Finished,12.0
+33,M VERSTAPPEN,VER,max_verstappen,Red Bull Racing,1E41FF,red_bull,Max,Verstappen,Max Verstappen,,,5.0,5,5.0,,,,0 days 00:00:20.436000,Finished,10.0
+27,N HULKENBERG,HUL,hulkenberg,Renault,FFF500,renault,Nico,Hulkenberg,Nico Hulkenberg,,,6.0,6,7.0,,,,0 days 00:00:21.052000,Finished,8.0
+14,F ALONSO,ALO,alonso,McLaren,FF8700,mclaren,Fernando,Alonso,Fernando Alonso,,,7.0,7,13.0,,,,0 days 00:00:30.639000,Finished,6.0
+5,S VETTEL,VET,vettel,Ferrari,DC0000,ferrari,Sebastian,Vettel,Sebastian Vettel,,,8.0,8,1.0,,,,0 days 00:00:35.286000,Finished,4.0
+55,C SAINZ,SAI,sainz,Renault,FFF500,renault,Carlos,Sainz,Carlos Sainz,,,9.0,9,9.0,,,,0 days 00:00:35.763000,Finished,2.0
+20,K MAGNUSSEN,MAG,kevin_magnussen,Haas F1 Team,828282,haas,Kevin,Magnussen,Kevin Magnussen,,,10.0,10,11.0,,,,0 days 00:00:39.594000,Finished,1.0
+31,E OCON,OCO,ocon,Force India,F596C8,force_india,Esteban,Ocon,Esteban Ocon,,,11.0,11,12.0,,,,0 days 00:00:44.050000,Finished,0.0
+11,S PEREZ,PER,perez,Force India,F596C8,force_india,Sergio,Perez,Sergio Perez,,,12.0,12,8.0,,,,0 days 00:00:44.725000,Finished,0.0
+2,S VANDOORNE,VAN,vandoorne,McLaren,FF8700,mclaren,Stoffel,Vandoorne,Stoffel Vandoorne,,,13.0,13,14.0,,,,0 days 00:00:49.373000,Finished,0.0
+18,L STROLL,STR,stroll,Williams,FFFFFF,williams,Lance,Stroll,Lance Stroll,,,14.0,14,18.0,,,,0 days 00:00:55.490000,Finished,0.0
+35,S SIROTKIN,SIR,sirotkin,Williams,FFFFFF,williams,Sergey,Sirotkin,Sergey Sirotkin,,,15.0,15,16.0,,,,0 days 00:00:58.241000,Finished,0.0
+9,M ERICSSON,ERI,ericsson,Sauber,9B0000,sauber,Marcus,Ericsson,Marcus Ericsson,,,16.0,16,20.0,,,,0 days 00:01:02.604000,Finished,0.0
+8,R GROSJEAN,GRO,grosjean,Haas F1 Team,828282,haas,Romain,Grosjean,Romain Grosjean,,,17.0,17,10.0,,,,0 days 00:01:05.296000,Finished,0.0
+10,P GASLY,GAS,gasly,Toro Rosso,469BFF,toro_rosso,Pierre,Gasly,Pierre Gasly,,,18.0,18,17.0,,,,0 days 00:01:06.330000,Finished,0.0
+16,C LECLERC,LEC,leclerc,Sauber,9B0000,sauber,Charles,Leclerc,Charles Leclerc,,,19.0,19,19.0,,,,0 days 00:01:22.575000,Finished,0.0
+28,B HARTLEY,HAR,brendon_hartley,Toro Rosso,469BFF,toro_rosso,Brendon,Hartley,Brendon Hartley,,,20.0,20,15.0,,,,,Collision damage,0.0
